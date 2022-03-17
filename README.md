@@ -3,9 +3,8 @@
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a trainee developer based in Barnaul, Russia. Constantly improving and would like to conquer the IT industry :)
 <br/>
 
-- ⚙️ I use daily: `full.php`, `nemnogo.js`, `defaut.html`, `nu i kuda jhe bez tailwind\bootstrap\default.css`
-- 🌍 I'm mostly active within the **Laravel**
-- 💬 I will be glad to meet you: ** Web and Laravel development ⛏️ **
+- ⚙️ I use daily: `fullstack.js`
+- 🌍 I'm mostly active within the `nest.js` `express.js` `react.js`
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChampionTommy&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
