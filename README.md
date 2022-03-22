@@ -1,6 +1,6 @@
 # VerkhunovNikita@ChampionTommy
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a trainee developer based in Barnaul, Russia. Constantly improving and would like to conquer the IT industry :)
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a developer based in Barnaul, Russia. Constantly improving and would like to conquer the IT industry :)
 <br/>
 
 - ⚙️ I use daily: `fullstack.js`
