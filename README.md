@@ -3,7 +3,7 @@
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a developer based in Barnaul, Russia. Constantly improving and would like to conquer the IT industry :)
 <br/>
 
-- ⚙️ I use daily: `html&css` `scss&sass` `javascript` `UI-frameworks` `react.js` `express.js` `samuyu malost' php (laravel)` `docker`
+- ⚙️ I use daily: `html&css` `scss&sass` `javascript` `UI-frameworks` `samuyu malost' php (laravel)` `docker`
 - 🌍 I'm mostly active within the: `express.js` `react.js`
 
   
