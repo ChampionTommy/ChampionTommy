@@ -8,7 +8,6 @@
 ###  Currently learning:
 * TypeScript - late 2023
 * Testing libraries - late 2023
-* Erlang\Elixir - late 2023
 
 
 ### React me out at
