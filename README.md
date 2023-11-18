@@ -1,4 +1,6 @@
-# ChampionTommy
+
+![shapachkaaabb](https://github.com/ChampionTommy/ChampionTommy/assets/79994252/435c6b8b-7fcb-4863-93ce-5777a445249b)
+
 
 **Hello World!.** I'm a developer based in Barnaul, Russia.
 <br/>
@@ -9,6 +11,12 @@
 * TypeScript - late 2023
 * Testing libraries - late 2023
 
+### Other tools: 
+* Chakra-UI
+* tailwindcss
+* SASS, BEM
+* ReactQuery + RTK-query
+  
 
 ### React me out at
 [![telegram](https://user-images.githubusercontent.com/79994252/150616122-f30e32b4-8aa1-43ca-ae87-91ab01fbb543.png)](https://t.me/terronex) &nbsp;&nbsp;
