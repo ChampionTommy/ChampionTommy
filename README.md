@@ -7,14 +7,16 @@
 
 
 ###  Currently learning:
-* TypeScript - late 2023
+* TypeScript (advanced) - late 2023
 * Testing libraries - late 2023
-
+* golang - late 2023
 ### Other tools: 
 * Chakra-UI
 * tailwindcss
 * SASS, BEM
 * ReactQuery + RTK-query
+* SWC
+* Next.js(app)
   
 
 ### React me out at
