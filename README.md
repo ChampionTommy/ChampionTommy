@@ -1,8 +1,7 @@
 
-![shapachkaaabb](https://github.com/ChampionTommy/ChampionTommy/assets/79994252/435c6b8b-7fcb-4863-93ce-5777a445249b)
 
 
-**Hello World!.** I'm a developer based in Barnaul, Russia.
+**Hello World!.** I'm a developer based from Russia.
 <br/>
 [![My Stack](https://skillicons.dev/icons?i=nodejs,ts,react,redux,express,mongodb,webpack,neovim)](https://skillicons.dev)
 
