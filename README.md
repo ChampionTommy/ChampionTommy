@@ -7,17 +7,9 @@
 
 
 ###  Currently learning:
-* TypeScript (advanced) - late 2023
-* Testing libraries - late 2023
-* golang - late 2023
-### Other tools: 
-* Chakra-UI
-* tailwindcss
-* SASS, BEM
-* ReactQuery + RTK-query
-* SWC
-* Next.js(app)
-  
+* TypeScript (advanced)
+* python: HID, sys, reverse
+
 
 ### React me out at
 [![telegram](https://user-images.githubusercontent.com/79994252/150616122-f30e32b4-8aa1-43ca-ae87-91ab01fbb543.png)](https://t.me/championtommy) &nbsp;&nbsp;
