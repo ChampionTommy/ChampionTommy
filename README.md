@@ -1,7 +1,7 @@
 
 
 
-**Hello World!.** I'm a developer based from Russia.
+**Hello World!.**
 <br/>
 [![My Stack](https://skillicons.dev/icons?i=nodejs,ts,react,redux,express,mongodb,webpack,neovim)](https://skillicons.dev)
 
